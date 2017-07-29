@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mServiceInvoker-service
 
 By nature &#39;mServiceIvoker&#39; is microservice, which can communicate to other microservices, especially in the scope this sample starter it invoke another microservice named ,&#39;mService&#39;.
@@ -19,3 +20,6 @@ $ nvm use
 ```shell
 $ npm start
 ```
+=======
+# microservice-hydra
+>>>>>>> 6b8f3e9507ee640fe9030db2c3d24760952ff202
